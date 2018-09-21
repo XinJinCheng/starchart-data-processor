@@ -1,0 +1,10 @@
+
+spring:
+  application:
+    name: com.newjincin.starmap.dataprocessor
+  profiles:
+    active: dev
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+
+
